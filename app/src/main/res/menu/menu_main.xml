@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/contact_us"
+            android:orderInCategory="1"
+            android:title="@string/lianxi"/>
+        <item android:title="@string/aboutme"
+            android:id="@+id/abouts"
+            />
+    </group>
+<!--    <group>-->
+<!--        <item android:title="系统设置"-->
+
+<!--            android:orderInCategory="2"-->
+<!--            android:id="@+id/system_setting"-->
+<!--            >-->
+<!--            <menu>-->
+<!--                <item android:title="亮度设置" android:id="@+id/liangdu"/>-->
+<!--                <item android:enabled="false" android:title="主题设置" android:id="@+id/theme"/>-->
+<!--            </menu>-->
+<!--        </item>-->
+<!--    </group>-->
+</menu>

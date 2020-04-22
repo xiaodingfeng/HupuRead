@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">虎扑篮球资讯</string>
+    <string name="aboutme">关于软件</string>
+    <string name="lianxi">联系我</string>
+    <string name="lianxitext">
+        华东交通大学:小白不爱\n\n
+        Telephone：18179144782\n\n
+        Email：1440651649@qq.com
+    </string>
+</resources>
